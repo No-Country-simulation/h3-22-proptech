@@ -10,9 +10,9 @@ Financiamos tus sueños, potenciamos tus inversiones.
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&color=007396) ![Spring Boot](https://img.shields.io/badge/Spring--Boot-6DB33F?logo=spring-boot&logoColor=white&color=6DB33F) ![Spring Security](https://img.shields.io/badge/Spring--Security-6DB33F?logo=spring-security&logoColor=white&color=6DB33F) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&color=336791) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&color=61DAFB) ![JWT](https://img.shields.io/badge/JWT-black?logo=json-web-tokens&logoColor=white&color=black) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&color=85EA2D) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&color=FF6C37)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&color=2496ED) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&color=2496ED) ![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white&color=000000) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&color=F05032) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&color=4A154B) 
 
 
-![Logo](https://res.cloudinary.com/dngaurrsm/image/upload/v1734351155/Portada_1_con_efecto_dadkw5.jpg)
+![Logo](https://res.cloudinary.com/dngaurrsm/image/upload/v1734521596/fint1_zlwvpo.jpg)
 
-![Logo](https://res.cloudinary.com/dngaurrsm/image/upload/v1734351155/2_ft2lcz.jpg)
+![Logo](https://res.cloudinary.com/dngaurrsm/image/upload/v1734521596/fint2_q1plhu.jpg)
 
 ![Logo](https://res.cloudinary.com/dngaurrsm/image/upload/v1734351154/que_es_financia_myxyw6.jpg)
 
